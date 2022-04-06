@@ -9,11 +9,11 @@ Read the data from seperated CROSS-ID fits files.
 CROSS-ID url: 
 	http://skyserver.sdss.org/dr12/en/tools/crossid/crossid.aspx
 Data:
-	- modelMag_u
-	- modelMag_g
-	- modelMag_r
-	- modelMag_i
-	- modelMag_z
+	- absMagU
+	- absMagG
+	- absMagR
+	- absMagI
+	- absMagZ
 	- specObjID
 '''
 
